@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599746693330",
+    "project_id": "mahalaxmi-coolers",
+    "storage_bucket": "mahalaxmi-coolers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599746693330:android:37d0d84f2dc03eb3b4050b",
+        "android_client_info": {
+          "package_name": "com.example.mahalaxmi_coolers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXburakjXN7P-fbxTbfVB-r4iw-PsjIQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
