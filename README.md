@@ -16,15 +16,16 @@ The platform allows users to:
 
 This is:
 
-🎯 My first freelancing project
+# 🎯 My first freelancing project
 
-📱 My first Flutter project
+# 📱 My first Flutter project
 
-🔥 A real-world production application
+# 🔥 A real-world production application
 
 I am learning, implementing, and improving my Flutter skills while building this live commercial product.
 
 💡 Project Vision
+--
 
 The goal of Mahalaxmi_Coolers is to digitize and simplify the rental & sales process for cooler businesses.
 
@@ -41,22 +42,23 @@ Track their requests
 This brings a traditional local business into the modern digital ecosystem.
 
 🧠 Tech Stack
-📱 Frontend
+-
+# 📱 Frontend
 
 Flutter
 Dart
 
-🔥 Backend (Current)
+# 🔥 Backend (Current)
 
 Firebase Authentication
 Firebase Firestore
 Firebase Storage
 
-🌱 Backend (In Progress – Learning Purpose)
+# 🌱 Backend (In Progress – Learning Purpose)
 
 I am also building a dedicated backend using:
 
-🔗 EcomBackend
+# 🔗 EcomBackend
 
 Spring Boot
 REST APIs
@@ -66,7 +68,8 @@ JWT Authentication (planned)
 This is part of my learning journey into full-stack development.
 
 ✨ Core Features (Planned & Implemented)
-👤 User Side
+--
+# 👤 User Side
 
 User Registration & Login
 
@@ -82,7 +85,7 @@ Order History
 
 Profile Management
 
-🛠 Admin Side (Planned)
+# 🛠 Admin Side (Planned)
 
 Add / Edit Products
 
@@ -94,7 +97,7 @@ Update Pricing
 
 Control Availability
 
-🔐 Authentication & Data Handling
+# 🔐 Authentication & Data Handling
 
 Secure login via Firebase Authentication
 
@@ -107,7 +110,7 @@ Future plan:
 Migration to custom Spring Boot backend for scalability & advanced control
 
 ⚙️ Architecture
-
+--
 Current Architecture:
 
 Flutter App
@@ -123,7 +126,7 @@ Spring Boot REST API
 Database
 
 📚 Learning Journey
-
+-
 This project is very special because:
 
 It is my first freelancing client project
@@ -146,7 +149,9 @@ Clean architecture principles
 
 Production-level debugging
 
+
 📦 Installation (Development)
+--
 git clone https://github.com/your-username/Mahalaxmi_Coolers.git
 cd Mahalaxmi_Coolers
 flutter pub get
@@ -155,7 +160,7 @@ flutter run
 Make sure Firebase configuration is properly added before running.
 
 🤝 Contributing
-
+--
 This is currently a live freelancing project.
 
 However, suggestions and improvements are welcome.
@@ -171,15 +176,15 @@ Suggest architecture improvements
 Help improve backend design
 
 📬 Contact
-
-👨‍💻 Yash Maske
+--
+# 👨‍💻 Yash Maske
 
 LinkedIn: https://www.linkedin.com/in/yash-maske
 
 Email: grindwithyash@gmail.com
 
 ⭐ Why This Project Matters
-
+--
 Mahalaxmi_Coolers is more than just an e-commerce app.
 
 It represents:
