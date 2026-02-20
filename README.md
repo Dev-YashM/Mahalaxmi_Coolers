@@ -16,11 +16,11 @@ The platform allows users to:
 
 This is:
 
-# 🎯 My first freelancing project
+🎯 My first freelancing project
 
-# 📱 My first Flutter project
+📱 My first Flutter project
 
-# 🔥 A real-world production application
+🔥 A real-world production application
 
 I am learning, implementing, and improving my Flutter skills while building this live commercial product.
 
