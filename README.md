@@ -46,12 +46,15 @@ This brings a traditional local business into the modern digital ecosystem.
 # 📱 Frontend
 
 Flutter
+
 Dart
 
 # 🔥 Backend (Current)
 
 Firebase Authentication
+
 Firebase Firestore
+
 Firebase Storage
 
 # 🌱 Backend (In Progress – Learning Purpose)
@@ -61,8 +64,11 @@ I am also building a dedicated backend using:
 # 🔗 EcomBackend
 
 Spring Boot
+
 REST APIs
+
 MySQL (planned)
+
 JWT Authentication (planned)
 
 This is part of my learning journey into full-stack development.
@@ -152,9 +158,12 @@ Production-level debugging
 
 📦 Installation (Development)
 --
-git clone https://github.com/your-username/Mahalaxmi_Coolers.git
+git clone https://github.com/Dev-YashM/Mahalaxmi_Coolers.git
+
 cd Mahalaxmi_Coolers
+
 flutter pub get
+
 flutter run
 
 Make sure Firebase configuration is properly added before running.
